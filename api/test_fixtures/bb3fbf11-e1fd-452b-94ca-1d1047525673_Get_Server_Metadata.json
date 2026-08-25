@@ -1,0 +1,11 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": {
+        "os_version": "11.6.0",
+        "server_version": "11.1.1",
+        "private_api": true,
+        "proxy_service": "Dynamic DNS",
+        "helper_connected": false
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "status": 200,
+    "message": "Successfully got FCM data",
+    "data": {
+        "project_info": {
+            "project_number": "1234567890",
+            "firebase_url": "https://bluebubblesapp-abcd123-default-rtdb.firebaseio.com",
+            "project_id": "bluebubblesapp-abcd123",
+            "storage_bucket": "bluebubblesapp-abcd123.appspot.com"
+        },
+        "client": [
+            {
+                "client_info": {
+                    "mobilesdk_app_id": "1:1234567890:android:1234567890",
+                    "android_client_info": {
+                        "package_name": "com.bluebubbles.messaging"
+                    }
+                },
+                "oauth_client": [
+                    {
+                        "client_id": "1234567890-abcdefghijklmnopqrstuvwxyz.apps.googleusercontent.com",
+                        "client_type": 3
+                    }
+                ],
+                "api_key": [
+                    {
+                        "current_key": "aAbBcCdDeEfFgGhHiIjJkKlLmMoOpPqQrRsSTtUuVv-97Dg"
+                    }
+                ],
+                "services": {
+                    "appinvite_service": {
+                        "other_platform_oauth_client": [
+                            {
+                                "client_id": "bluebubblesapp-abcd123-aAbBcCdDeEfFgGhHiIjJkKlLmMoOpPqQrRsSTtUuVv.apps.googleusercontent.com",
+                                "client_type": 3
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "configuration_version": "1"
+    }
+}

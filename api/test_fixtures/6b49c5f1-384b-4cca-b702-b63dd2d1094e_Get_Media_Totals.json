@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": {
+        "images": 6773,
+        "videos": 483,
+        "locations": 47
+    }
+}

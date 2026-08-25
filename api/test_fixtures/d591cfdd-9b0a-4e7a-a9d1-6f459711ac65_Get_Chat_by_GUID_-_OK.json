@@ -1,0 +1,98 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": {
+        "originalROWID": 222,
+        "guid": "iMessage;+;chat1234567890",
+        "participants": [
+            {
+                "originalROWID": 90,
+                "messages": [],
+                "chats": [],
+                "address": "dddddddddddddd@gmail.com",
+                "country": "US",
+                "uncanonicalizedId": null
+            },
+            {
+                "originalROWID": 115,
+                "messages": [],
+                "chats": [],
+                "address": "cccccccccccc@icloud.com",
+                "country": "US",
+                "uncanonicalizedId": null
+            },
+            {
+                "originalROWID": 135,
+                "messages": [],
+                "chats": [],
+                "address": "bbbbbbbbbb@gmail.com",
+                "country": "US",
+                "uncanonicalizedId": null
+            },
+            {
+                "originalROWID": 136,
+                "messages": [],
+                "chats": [],
+                "address": "aaaaaaaaa@gmail.com",
+                "country": "US",
+                "uncanonicalizedId": null
+            }
+        ],
+        "messages": [],
+        "style": 43,
+        "chatIdentifier": "chat1234567890",
+        "isArchived": false,
+        "isFiltered": false,
+        "displayName": "BlueBubbles Stuff",
+        "groupId": "XXXXXXXXXX-YYYY-ZZZZ-B75A-AAAAAAAAAA",
+        "lastMessage": {
+            "originalROWID": 132957,
+            "guid": "XXXXXXXXXX-YYYY-ZZZZ-B75A-AAAAAAAAAA",
+            "text": null,
+            "handle": null,
+            "handleId": 135,
+            "otherHandle": 0,
+            "chats": [
+                {
+                    "originalROWID": 222,
+                    "guid": "iMessage;+;chat1234567890",
+                    "participants": [],
+                    "messages": [],
+                    "style": 43,
+                    "chatIdentifier": "chat1234567890",
+                    "isArchived": false,
+                    "isFiltered": false,
+                    "displayName": "BlueBubbles Stuff",
+                    "groupId": "XXXXXXXXXX-YYYY-ZZZZ-B75A-AAAAAAAAAA"
+                }
+            ],
+            "attachments": [],
+            "subject": null,
+            "country": null,
+            "error": 0,
+            "dateCreated": 1633970393012,
+            "dateRead": null,
+            "dateDelivered": null,
+            "isFromMe": false,
+            "isDelayed": false,
+            "isAutoReply": false,
+            "isSystemMessage": false,
+            "isServiceMessage": false,
+            "isForward": false,
+            "isArchived": false,
+            "cacheRoomnames": "chatXXXXXXXXXXXXXX",
+            "isAudioMessage": false,
+            "hasDdResults": false,
+            "datePlayed": null,
+            "itemType": 2,
+            "groupTitle": "BlueBubbles Stuff",
+            "groupActionType": 0,
+            "isExpired": false,
+            "balloonBundleId": null,
+            "associatedMessageGuid": null,
+            "associatedMessageType": null,
+            "expressiveSendStyleId": null,
+            "timeExpressiveSendStyleId": null
+        }
+    }
+}

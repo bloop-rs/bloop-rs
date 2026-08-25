@@ -1,0 +1,5 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": "Successfully executed lock command!"
+}

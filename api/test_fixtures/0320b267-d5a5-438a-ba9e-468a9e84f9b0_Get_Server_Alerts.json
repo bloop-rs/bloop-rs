@@ -1,0 +1,13 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": [
+        {
+            "type": "warn",
+            "value": "Some warning alert",
+            "isRead": false,
+            "created": "2022-01-01T00:00:00.000Z",
+            "updated": "2022-01-01T00:00:00.000Z"
+        }
+    ]
+}

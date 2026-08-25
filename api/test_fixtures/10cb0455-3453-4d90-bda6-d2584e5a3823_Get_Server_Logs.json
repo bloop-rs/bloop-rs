@@ -1,0 +1,5 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": "[2021-10-11 12:35:08.910] [debug] Request to /api/v1/server/statistics/media/chat (URL Params: {})\n[2021-10-11 12:35:11.304] [debug] Request to /api/v1/server/statistics/media/chat (URL Params: {})\n[2021-10-11 12:36:22.034] [debug] Request to /api/v1/server/statistics/media (URL Params: {})\n[2021-10-11 12:36:40.510] [debug] Request to /api/v1/server/statistics/totals (URL Params: {})\n[2021-10-11 12:39:31.161] [info] New message from [xxxxxxx@yyyyyyy.com]: [<No Text>]\n[2021-10-11 12:39:32.993] [info] Group name for [chatXXXXXXXXXXXX] changed to [BlueBubbles]\n[2021-10-11 12:39:51.856] [debug] Request to /api/v1/server/update/check (URL Params: {})\n[2021-10-11 12:39:53.218] [info] New message from [xxxxx@yyyyy.com]: [<No Text>]\n[2021-10-11 12:39:55.015] [info] Group name for [chatXXXXXXXXXXXX] changed to [BlueBubbles Stuff]\n[2021-10-11 12:40:46.103] [debug] Request to /api/v1/server/logs (URL Params: {\"count\":\"10\"})\n"
+}

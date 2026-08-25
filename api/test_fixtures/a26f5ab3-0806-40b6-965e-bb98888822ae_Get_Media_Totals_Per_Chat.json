@@ -1,0 +1,33 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": [
+        {
+            "chatGuid": "iMessage;+;chatXXXXXXXXXXXXXX",
+            "groupName": "",
+            "totals": {
+                "images": 84,
+                "videos": 3,
+                "locations": 0
+            }
+        },
+        {
+            "chatGuid": "iMessage;+;chatYYYYYYYYYYYYYY",
+            "groupName": "",
+            "totals": {
+                "images": 84,
+                "videos": 3,
+                "locations": 0
+            }
+        },
+        {
+            "chatGuid": "iMessage;+;chatZZZZZZZZZZZZZZZZ",
+            "groupName": "BlueBubbles is Awesome",
+            "totals": {
+                "images": 84,
+                "videos": 3,
+                "locations": 0
+            }
+        }
+    ]
+}

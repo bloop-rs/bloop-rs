@@ -1,0 +1,10 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": {
+        "total": 230,
+        "breakdown": {
+            "iMessage": 230
+        }
+    }
+}
